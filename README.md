@@ -32,10 +32,8 @@
 - [Voided Network Discord](https://discord.gg/VoidedNetwork)
 - [Voided Network Store](https://store.voidedservers.net/)
 - [Voided Network YouTube](https://www.youtube.com/@TheVoidedNetwork)
-
 - [Voided Studios YouTube](https://www.youtube.com/@VoidedStudios1)
 - [Voided Studios Spotify](https://open.spotify.com/artist/617THkYI1UjW6JObJLXjta)
-
 - [TryHackMe](https://tryhackme.com/p/VoidWatcher1)
 - [GitHub](https://github.com/VoidWatcher1)
 
