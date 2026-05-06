@@ -5,7 +5,7 @@
 
 ### GitHub Stats
 
-![VoidWatcher1's GitHub Stats]((https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats))
+![VoidWatcher1's GitHub Stats]((https://github-readme-stats.vercel.app/api?username=VoidWatcher1)](https://github.com/anuraghazra/github-readme-stats))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidWatcher1&layout=compact&theme=tokyonight&border_radius=12)
 
