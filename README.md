@@ -3,9 +3,11 @@
 > In the void, we watch.  
 > Through the darkness, code emerges.
 
-![VoidWatcher1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoidWatcher1&show_icons=true&theme=tokyonight&hide_title=true&border_radius=10&border_color=00000000)
+### GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidWatcher1&layout=compact&theme=tokyonight&border_color=00000000&hide=jupyter%20notebook)
+![VoidWatcher1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoidWatcher1&show_icons=true&theme=tokyonight&hide_title=true&border_radius=12)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidWatcher1&layout=compact&theme=tokyonight&border_radius=12&hide=jupyter%20notebook)
 
 ---
 
@@ -19,16 +21,8 @@ Minecraft addict who enjoys digging into addons, old client source code, resourc
 
 ## My Repositories
 - **[MCBE-Addons](https://github.com/VoidWatcher1/MCBE-Addons)** — Collection of leaked Addons, Resource Packs, Worlds & Skins
-- **[Old-MCBE-Clients-SRC](https://github.com/VoidWatcher1/Old-MCBE-Clients-SRC)** — Archive of old Minecraft Bedrock client sources for learning
+- **[Old-MCBE-Clients-SRC](https://github.com/VoidWatcher1/Old-MCBE-Clients-SRC)** — Archive of old Minecraft Bedrock client sources
 
 ---
 
-## Connect With Me
-- GitHub: [@VoidWatcher1](https://github.com/VoidWatcher1)
-- Feel free to star or fork if you're into MCBE modding!
-
----
-
-*Made with inspiration from Shanwer's profile. Customize colors and sections as you grow!*
-
----
+Made with inspiration from Shanwer's profile.
