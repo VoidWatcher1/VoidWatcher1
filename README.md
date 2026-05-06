@@ -7,7 +7,7 @@
 
 ![VoidWatcher1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoidWatcher1&show_icons=true&theme=tokyonight&hide_title=true&border_radius=12)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidWatcher1&layout=compact&theme=tokyonight&border_radius=12&hide=jupyter%20notebook)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidWatcher1&layout=compact&theme=tokyonight&border_radius=12)
 
 ---
 
@@ -25,4 +25,6 @@ Minecraft addict who enjoys digging into addons, old client source code, resourc
 
 ---
 
-Made with inspiration from Shanwer's profile.
+## Connect With Me
+- GitHub: [@VoidWatcher1](https://github.com/VoidWatcher1)
+- Feel free to star or fork if you're into MCBE modding!
