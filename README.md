@@ -1,5 +1,3 @@
-<p align="left">Hey!</p>
-
 ###
 
 <div>
