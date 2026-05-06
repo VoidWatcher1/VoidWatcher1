@@ -18,11 +18,6 @@ I am a developer mostly focusing on Minecraft, with interests in modding, addons
 - 🔭 Currently working on Minecraft projects
 - 🌱 Exploring reverse engineering, modding, and open-source development
 
-## Featured Repositories
-
-- **[MCBE-Addons](https://github.com/VoidWatcher1/MCBE-Addons)** — Curated collection of Minecraft addons, resource packs, worlds, and skins
-- **[Old-MCBE-Clients-SRC](https://github.com/VoidWatcher1/Old-MCBE-Clients-SRC)** — Archive of historical Minecraft client source code for educational purposes
-
 ---
 
 ## Connect
